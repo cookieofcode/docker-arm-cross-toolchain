@@ -1,4 +1,4 @@
-FROM ghcr.io/tttapa/docker-crosstool-ng-multiarch:master
+FROM ghcr.io/cookieofcode/docker-crosstool-ng-multiarch:master
 
 WORKDIR /home/develop
 RUN mkdir /home/develop/src
